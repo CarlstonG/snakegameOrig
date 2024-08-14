@@ -26,6 +26,7 @@ namespace snakeapp
             Rows = rows;
             Cols = cols;
             Grid = new GridValue[Rows, Cols];
+            Dir = Direction.Right;
             AddSnake();
             AddFood();
         }
@@ -132,7 +133,8 @@ namespace snakeapp
             {
                 GameOver = true;
             }
-            else if (hit == GridValue.Snake) {
+            else if (hit == GridValue.Empty)
+            {
                 RemoveTail();
                 Addhead(newHeadPos);
             }
@@ -143,5 +145,6 @@ namespace snakeapp
                 AddFood();
             }
         }
+
     }
 }

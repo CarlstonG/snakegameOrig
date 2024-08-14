@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sites at Scale\\Desktop\\Codes\\snake\\snakegameOrig\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB54B317-D4C6-435D-9E9E-CAEA5BF37EB3}|snakeapp\\snakeapp.csproj|c:\\users\\sites at scale\\desktop\\codes\\snake\\snakegameorig\\snakeapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB54B317-D4C6-435D-9E9E-CAEA5BF37EB3}|snakeapp\\snakeapp.csproj|solutionrelative:snakeapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB54B317-D4C6-435D-9E9E-CAEA5BF37EB3}|snakeapp\\snakeapp.csproj|c:\\users\\sites at scale\\desktop\\codes\\snake\\snakegameorig\\snakeapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CB54B317-D4C6-435D-9E9E-CAEA5BF37EB3}|snakeapp\\snakeapp.csproj|solutionrelative:snakeapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB54B317-D4C6-435D-9E9E-CAEA5BF37EB3}|snakeapp\\snakeapp.csproj|c:\\users\\sites at scale\\desktop\\codes\\snake\\snakegameorig\\snakeapp\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB54B317-D4C6-435D-9E9E-CAEA5BF37EB3}|snakeapp\\snakeapp.csproj|solutionrelative:snakeapp\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB54B317-D4C6-435D-9E9E-CAEA5BF37EB3}|snakeapp\\snakeapp.csproj|c:\\users\\sites at scale\\desktop\\codes\\snake\\snakegameorig\\snakeapp\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB54B317-D4C6-435D-9E9E-CAEA5BF37EB3}|snakeapp\\snakeapp.csproj|solutionrelative:snakeapp\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB54B317-D4C6-435D-9E9E-CAEA5BF37EB3}|snakeapp\\snakeapp.csproj|c:\\users\\sites at scale\\desktop\\codes\\snake\\snakegameorig\\snakeapp\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB54B317-D4C6-435D-9E9E-CAEA5BF37EB3}|snakeapp\\snakeapp.csproj|solutionrelative:snakeapp\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB54B317-D4C6-435D-9E9E-CAEA5BF37EB3}|snakeapp\\snakeapp.csproj|c:\\users\\sites at scale\\desktop\\codes\\snake\\snakegameorig\\snakeapp\\images.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB54B317-D4C6-435D-9E9E-CAEA5BF37EB3}|snakeapp\\snakeapp.csproj|solutionrelative:snakeapp\\images.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB54B317-D4C6-435D-9E9E-CAEA5BF37EB3}|snakeapp\\snakeapp.csproj|c:\\users\\sites at scale\\desktop\\codes\\snake\\snakegameorig\\snakeapp\\gridvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB54B317-D4C6-435D-9E9E-CAEA5BF37EB3}|snakeapp\\snakeapp.csproj|solutionrelative:snakeapp\\gridvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Direction.cs",
+              "DocumentMoniker": "C:\\Users\\Sites at Scale\\Desktop\\Codes\\snake\\snakegameOrig\\snakeapp\\Direction.cs",
+              "RelativeDocumentMoniker": "snakeapp\\Direction.cs",
+              "ToolTip": "C:\\Users\\Sites at Scale\\Desktop\\Codes\\snake\\snakegameOrig\\snakeapp\\Direction.cs",
+              "RelativeToolTip": "snakeapp\\Direction.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T04:47:48.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Position.cs",
+              "DocumentMoniker": "C:\\Users\\Sites at Scale\\Desktop\\Codes\\snake\\snakegameOrig\\snakeapp\\Position.cs",
+              "RelativeDocumentMoniker": "snakeapp\\Position.cs",
+              "ToolTip": "C:\\Users\\Sites at Scale\\Desktop\\Codes\\snake\\snakegameOrig\\snakeapp\\Position.cs",
+              "RelativeToolTip": "snakeapp\\Position.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T04:40:26.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "C:\\Users\\Sites at Scale\\Desktop\\Codes\\snake\\snakegameOrig\\snakeapp\\GameState.cs",
+              "RelativeDocumentMoniker": "snakeapp\\GameState.cs",
+              "ToolTip": "C:\\Users\\Sites at Scale\\Desktop\\Codes\\snake\\snakegameOrig\\snakeapp\\GameState.cs",
+              "RelativeToolTip": "snakeapp\\GameState.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAgwJEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T00:37:56.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GridValue.cs",
+              "DocumentMoniker": "C:\\Users\\Sites at Scale\\Desktop\\Codes\\snake\\snakegameOrig\\snakeapp\\GridValue.cs",
+              "RelativeDocumentMoniker": "snakeapp\\GridValue.cs",
+              "ToolTip": "C:\\Users\\Sites at Scale\\Desktop\\Codes\\snake\\snakegameOrig\\snakeapp\\GridValue.cs",
+              "RelativeToolTip": "snakeapp\\GridValue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T00:37:51.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Images.cs",
+              "DocumentMoniker": "C:\\Users\\Sites at Scale\\Desktop\\Codes\\snake\\snakegameOrig\\snakeapp\\Images.cs",
+              "RelativeDocumentMoniker": "snakeapp\\Images.cs",
+              "ToolTip": "C:\\Users\\Sites at Scale\\Desktop\\Codes\\snake\\snakegameOrig\\snakeapp\\Images.cs",
+              "RelativeToolTip": "snakeapp\\Images.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T00:37:48.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Sites at Scale\\Desktop\\Codes\\snake\\snakegameOrig\\snakeapp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "snakeapp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Sites at Scale\\Desktop\\Codes\\snake\\snakegameOrig\\snakeapp\\MainWindow.xaml*",
+              "RelativeToolTip": "snakeapp\\MainWindow.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-14T00:36:41.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Sites at Scale\\Desktop\\Codes\\snake\\snakegameOrig\\snakeapp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "snakeapp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Sites at Scale\\Desktop\\Codes\\snake\\snakegameOrig\\snakeapp\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "snakeapp\\MainWindow.xaml.cs*",
+              "ViewState": "AgIAACIAAAAAAAAAAAAUwD8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T00:36:53.207Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
